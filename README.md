@@ -26,8 +26,13 @@ end;
 # Requires
 
 Horse https://github.com/HashLoad/horse
+
 Dataset.Serialize https://github.com/viniciussanchez/dataset-serialize
+
 Ricardo Rocha pinned projects https://github.com/ricardodarocha/
+
   https://github.com/ricardodarocha/RttiInterceptor
+  
   https://github.com/ricardodarocha/EntityMapper
+  
   https://github.com/ricardodarocha/SqlExtrator
